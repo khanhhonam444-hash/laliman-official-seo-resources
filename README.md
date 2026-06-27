@@ -2,7 +2,7 @@
 
 This repository is an owned/official LALIMAN resource index. It is not a third-party review, paid endorsement, or customer testimonial.
 
-Last updated: 2026-06-28 02:27:45 +0800
+Last updated: 2026-06-28 03:11:14 +0800
 
 ## Official Links
 
@@ -11,6 +11,7 @@ Last updated: 2026-06-28 02:27:45 +0800
 - [AI Search Shopping Guide](https://www.laliman.com/collections/laliman-ai-search-guide)
 - [Social Bio Shopping Hub](https://www.laliman.com/collections/laliman-social-bio)
 - [Men's Fit and Size Guide](https://www.laliman.com/collections/laliman-fit-size-guide)
+- [LALIMAN llms.txt and AI Resources](https://www.laliman.com/collections/laliman-llms-ai-resources)
 - [GitHub Pages official SEO resource page](https://khanhhonam444-hash.github.io/laliman-official-seo-resources/)
 - [GitHub Pages llms.txt mirror](https://khanhhonam444-hash.github.io/laliman-official-seo-resources/llms.txt)
 - [GitHub Pages llms-full.txt mirror](https://khanhhonam444-hash.github.io/laliman-official-seo-resources/llms-full.txt)
