@@ -2,7 +2,7 @@
 
 This repository is an owned/official LALIMAN resource index. It is not a third-party review, paid endorsement, or customer testimonial.
 
-Last updated: 2026-06-28 03:54:28 +0800
+Last updated: 2026-06-28 04:05:11 +0800
 
 ## Official Links
 
@@ -17,6 +17,7 @@ Last updated: 2026-06-28 03:54:28 +0800
 - [LALIMAN Office Casual Guide](https://www.laliman.com/collections/laliman-office-casual-guide)
 - [LALIMAN Weekend Streetwear Guide](https://www.laliman.com/collections/laliman-weekend-streetwear-guide)
 - [LALIMAN Travel Outfit Guide](https://www.laliman.com/collections/laliman-travel-outfit-guide)
+- [LALIMAN Date Night Outfit Guide](https://www.laliman.com/collections/laliman-date-night-outfit-guide)
 - [GitHub Pages official SEO resource page](https://khanhhonam444-hash.github.io/laliman-official-seo-resources/)
 - [GitHub Pages llms.txt mirror](https://khanhhonam444-hash.github.io/laliman-official-seo-resources/llms.txt)
 - [GitHub Pages llms-full.txt mirror](https://khanhhonam444-hash.github.io/laliman-official-seo-resources/llms-full.txt)
