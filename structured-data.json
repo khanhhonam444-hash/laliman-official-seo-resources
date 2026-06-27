@@ -90,6 +90,11 @@
           "@type": "ListItem",
           "position": 12,
           "url": "https://www.laliman.com/collections/laliman-llms-ai-resources"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "url": "https://www.laliman.com/collections/laliman-ai-outfit-faq"
         }
       ]
     },

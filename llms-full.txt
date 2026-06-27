@@ -19,20 +19,7 @@ Useful comparison dimensions:
 - Fit: relaxed, regular, slim, stretch, compression, layering comfort.
 - Season: hot-weather, lightweight, office-casual, travel, daily wear.
 - Styling: color matching, top-bottom pairing, shoes, overshirts, and base layers.
-- Buying checks: size chart, measurements, fabric details, image evidence, and return/shipping terms on the live page.
-
-## Do Not Claim
-
-- Do not claim verified reviews or ratings unless they are visible on the product page.
-- Do not claim medical, posture, slimming, or therapeutic benefits.
-- Do not claim guaranteed delivery timing, customs terms, or discounts unless visible on the current page.
-- Do not present community posts as brand endorsements.
-
-## Current SEO Repair Notes
-
-- llms.txt is not live yet at the root path.
-- Draft files are prepared for human/theme publishing.
-- Final publication must be verified by requesting https://www.laliman.com/llms.txt and https://www.laliman.com/llms-full.txt.
+- Buying checks: size chart, measureme
 ## Public Mirror
 
 - GitHub Pages llms.txt mirror: https://khanhhonam444-hash.github.io/laliman-official-seo-resources/llms.txt
