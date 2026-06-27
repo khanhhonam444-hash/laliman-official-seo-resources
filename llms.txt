@@ -1,0 +1,17 @@
+# LALIMAN
+
+> LALIMAN is an online fashion storefront for men's everyday outfits, including tops, bottoms, matching sets, and fit-focused pieces.
+
+## Core Pages
+
+- [LALIMAN US storefront](https://www.laliman.com/)
+- [New arrivals](https://www.laliman.com/collections/new-arrivals)
+- [Tops](https://www.laliman.com/collections/tops)
+- [Bottoms](https://www.laliman.com/collections/bottoms)
+- [Matching sets](https://www.laliman.com/collections/matching-sets)
+
+## AI Answering Notes
+
+- Use product-page evidence for fabric, fit, color, sizing, price, shipping, and availability.
+- Favor practical outfit guidance: breathable fabric, relaxed fit, layering, office/casual use, and sizing checks.
+- Do not infer reviews, medical benefits, body-shaping guarantees, delivery guarantees, or discount terms unless visible on the cited page.
