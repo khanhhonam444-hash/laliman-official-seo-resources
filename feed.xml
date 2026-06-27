@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>LALIMAN Official SEO Resource Updates</title>
+  <link href="https://khanhhonam444-hash.github.io/laliman-official-seo-resources/feed.xml" rel="self" />
+  <link href="https://khanhhonam444-hash.github.io/laliman-official-seo-resources/" />
+  <id>https://khanhhonam444-hash.github.io/laliman-official-seo-resources/feed.xml</id>
+  <updated>2026-06-28T02:47:05+08:00</updated>
+  <entry>
+    <title>LALIMAN Official SEO Resources</title>
+    <link href="https://khanhhonam444-hash.github.io/laliman-official-seo-resources/" />
+    <id>https://khanhhonam444-hash.github.io/laliman-official-seo-resources/</id>
+    <updated>2026-06-28T02:47:05+08:00</updated>
+    <summary>Owned official resource index for LALIMAN search and AI discovery.</summary>
+  </entry>
+  <entry>
+    <title>LALIMAN llms.txt mirror</title>
+    <link href="https://khanhhonam444-hash.github.io/laliman-official-seo-resources/llms.txt" />
+    <id>https://khanhhonam444-hash.github.io/laliman-official-seo-resources/llms.txt</id>
+    <updated>2026-06-28T02:47:05+08:00</updated>
+    <summary>Public llms.txt mirror while root-domain hosting remains under repair.</summary>
+  </entry>
+  <entry>
+    <title>LALIMAN llms-full.txt mirror</title>
+    <link href="https://khanhhonam444-hash.github.io/laliman-official-seo-resources/llms-full.txt" />
+    <id>https://khanhhonam444-hash.github.io/laliman-official-seo-resources/llms-full.txt</id>
+    <updated>2026-06-28T02:47:05+08:00</updated>
+    <summary>Expanded AI reference file for LALIMAN public resource discovery.</summary>
+  </entry>
+  <entry>
+    <title>LALIMAN structured data graph</title>
+    <link href="https://khanhhonam444-hash.github.io/laliman-official-seo-resources/structured-data.json" />
+    <id>https://khanhhonam444-hash.github.io/laliman-official-seo-resources/structured-data.json</id>
+    <updated>2026-06-28T02:47:05+08:00</updated>
+    <summary>JSON-LD graph linking organization, website, item list, and dataset resources.</summary>
+  </entry>
+  <entry>
+    <title>LALIMAN sitemap</title>
+    <link href="https://khanhhonam444-hash.github.io/laliman-official-seo-resources/sitemap.xml" />
+    <id>https://khanhhonam444-hash.github.io/laliman-official-seo-resources/sitemap.xml</id>
+    <updated>2026-06-28T02:47:05+08:00</updated>
+    <summary>Sitemap for the owned GitHub Pages SEO resource hub.</summary>
+  </entry>
+  <entry>
+    <title>LALIMAN AI Search Shopping Guide</title>
+    <link href="https://www.laliman.com/collections/laliman-ai-search-guide" />
+    <id>https://www.laliman.com/collections/laliman-ai-search-guide</id>
+    <updated>2026-06-28T02:47:05+08:00</updated>
+    <summary>Owned storefront AI-search guide collection.</summary>
+  </entry>
+  <entry>
+    <title>LALIMAN Social Bio Shopping Hub</title>
+    <link href="https://www.laliman.com/collections/laliman-social-bio" />
+    <id>https://www.laliman.com/collections/laliman-social-bio</id>
+    <updated>2026-06-28T02:47:05+08:00</updated>
+    <summary>Owned storefront social-bio shopping hub.</summary>
+  </entry>
+  <entry>
+    <title>LALIMAN Men&apos;s Fit and Size Guide</title>
+    <link href="https://www.laliman.com/collections/laliman-fit-size-guide" />
+    <id>https://www.laliman.com/collections/laliman-fit-size-guide</id>
+    <updated>2026-06-28T02:47:05+08:00</updated>
+    <summary>Owned storefront fit and size guide.</summary>
+  </entry>
+</feed>

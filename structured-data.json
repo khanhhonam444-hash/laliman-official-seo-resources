@@ -64,21 +64,26 @@
         {
           "@type": "ListItem",
           "position": 7,
-          "url": "https://www.laliman.com/collections/%E6%89%80%E6%9C%89%E5%95%86%E5%93%81"
+          "url": "https://khanhhonam444-hash.github.io/laliman-official-seo-resources/feed.xml"
         },
         {
           "@type": "ListItem",
           "position": 8,
-          "url": "https://www.laliman.com/collections/laliman-ai-search-guide"
+          "url": "https://www.laliman.com/collections/%E6%89%80%E6%9C%89%E5%95%86%E5%93%81"
         },
         {
           "@type": "ListItem",
           "position": 9,
-          "url": "https://www.laliman.com/collections/laliman-social-bio"
+          "url": "https://www.laliman.com/collections/laliman-ai-search-guide"
         },
         {
           "@type": "ListItem",
           "position": 10,
+          "url": "https://www.laliman.com/collections/laliman-social-bio"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
           "url": "https://www.laliman.com/collections/laliman-fit-size-guide"
         }
       ]
@@ -103,6 +108,11 @@
           "@type": "DataDownload",
           "encodingFormat": "application/xml",
           "contentUrl": "https://khanhhonam444-hash.github.io/laliman-official-seo-resources/sitemap.xml"
+        },
+        {
+          "@type": "DataDownload",
+          "encodingFormat": "application/atom+xml",
+          "contentUrl": "https://khanhhonam444-hash.github.io/laliman-official-seo-resources/feed.xml"
         }
       ]
     }
