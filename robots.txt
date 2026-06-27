@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://khanhhonam444-hash.github.io/laliman-official-seo-resources/sitemap.xml
