@@ -85,6 +85,11 @@
           "@type": "ListItem",
           "position": 11,
           "url": "https://www.laliman.com/collections/laliman-fit-size-guide"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "url": "https://www.laliman.com/collections/laliman-llms-ai-resources"
         }
       ]
     },
